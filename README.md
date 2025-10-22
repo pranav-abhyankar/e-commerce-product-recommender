@@ -6,7 +6,7 @@
 ![Anthropic](https://img.shields.io/badge/Claude%20API-LLM-orange?logo=anthropic)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> 💡 *An AI-powered recommendation engine combining data-driven insights with LLM-generated explanations for a personalized e-commerce experience.*
+>  *An AI-powered recommendation engine combining data-driven insights with LLM-generated explanations for a personalized e-commerce experience.* 💡
 
 ---
 
